@@ -22,5 +22,5 @@ Crawler
 <img src="./main_process.png">
 
 ### 執行結果
-[傳送門]()
+[傳送門](https://github.com/07571026/Crawler/blob/main/main_process.ipynb)
 
